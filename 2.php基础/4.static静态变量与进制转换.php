@@ -37,3 +37,8 @@ echo make2(); // 3
 echo octdec(777); //八进制装换为十进制
 
 echo hexdec('FFF'); //十六进制转为十进制
+
+//转义符 \
+echo '<hr/>';
+$string='liukun';
+echo "I'm fine, \$string \t\t\tthank \nyou."; //\t表示空格 \n表示换行 （在源码中，浏览器中是没有的）
