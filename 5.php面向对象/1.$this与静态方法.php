@@ -21,5 +21,5 @@ class User
 
 $obj = new User();
 echo $obj->say();
-
+echo $obj->say();
 //test
