@@ -20,4 +20,5 @@ class User
 }
 
 $obj = new User();
-echo $obj->say();
+echo $obj->say(); v b
+echo $obj->say(); v b
